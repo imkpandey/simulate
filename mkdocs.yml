@@ -14,6 +14,7 @@ nav:
   - Documentation: 
     - Home: 'doc/index.md'
   - Simulations: 
+    - All Simulations: simulations/index.md
     - Algorithms: simulations/algorithms.md
     - Mathematics: simulations/mathematics.md
     # - All Simulations: 'simulations/index.md'
